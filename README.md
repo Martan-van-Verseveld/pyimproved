@@ -1,4 +1,7 @@
-# Basic Usage
+# PyImproved
+<img alt="car" src="https://github.com/user-attachments/assets/b30e8d79-5c6e-4233-b664-ab2ad3249902" width="95%">
+
+## Basic Usage
 Quick example printing a string inside of a box
 ```
 import pyimproved
@@ -20,22 +23,22 @@ pyimproved.boxed(prettified_string)
 # ╰──────────────────────────────────╯
 ```
 
-# Installation
-## Fast
+## Installation
+### Fast
 ```
 git clone https://github.com/Martan-van-Verseveld/pyimproved && cd ./pyimproved && pip install . -y
 ```
 
-## Step by step
-### Step 1
+### Step by step
+#### Step 1
 ```
 git clone https://github.com/Martan-van-Verseveld/pyimproved
 ```
-### Step 2
+#### Step 2
 ```
 cd ./pyimproved
 ```
-### Step 3
+#### Step 3
 ```
 pip install .
 ```
